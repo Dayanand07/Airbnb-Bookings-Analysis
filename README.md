@@ -1,5 +1,5 @@
 # Airbnb-Bookings-Analysis
-Airbnb Data Analytics and Prediction Using ML algorithm 
+Airbnb Data Analytics
 # Table of Contents
 1.Installation
 
