@@ -48,6 +48,5 @@ There is a notebook available here to showcase work related to the above questio
 
 2.calendar.csv - it contains listing's calendar and availability info
 
-3.listings.csv - it anchors all data about listings.
-
+3.listings.csv - it anchors all data about listings
 
