@@ -41,12 +41,4 @@ This dataset has 3,585 observations and 95 features. The target features for ana
 
 4.City column had a lot of duplicate entries with few case-sensitive entries, space addition issues, etc. All replicates were replaced with a single city code name and this cleaned data was put into a new column called city_cleansed in listings data. City column also had an unusual entry in some native language which was considered for dropping because there was only one entry as such and I was not losing so much data dropping it.
 
-## File Descriptions
-There is a notebook available here to showcase work related to the above questions and wrangling process. There are 3 data files used to address the above qustions
-
-1.reviews.csv - it has data related to listing's reviews.
-
-2.calendar.csv - it contains listing's calendar and availability info
-
-3.listings.csv - it anchors all data about listings
 
